@@ -1,3 +1,3 @@
 return {
-   -- JustMiyana = true,
+   JustMiyana = false,
 }
