@@ -1,3 +1,4 @@
 return {
-    JustMiyana = true, 
+    JustMiyana = true,
+    Excalidus = true,
 }
