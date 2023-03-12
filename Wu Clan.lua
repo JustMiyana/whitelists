@@ -1,4 +1,3 @@
 return {
-    Zenolaureate = true,
-    VLtheeDragon = true,
+    JustMiyana = true,
 }
